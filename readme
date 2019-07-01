@@ -1,1 +1,19 @@
-Readme
+# my_templates README
+-----
+##Purpose
+
+The `CarbonCriterium/my_templates/` repo is intended to hold my templates for various types of projects
+
+I created this repo in June of 2019 for myself as I am beginning to use GitHub and Jupyter Notebooks more often.
+-----
+##Repo Files
+
+The current repo directory is broken down in the following way:
+
+-[Data Science](link)
+--[DS Workbook](link)
+--[DS ReadMe](link)
+
+
+##Featured Projects
+
